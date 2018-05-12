@@ -1,0 +1,106 @@
+
+/* ============= */
+/* Header styles */
+/* ============= */
+
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    width: 895px;
+    height: 90px;
+    border-bottom: 10px #999 solid;
+    padding: 20px 0px;
+}
+
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+header h3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 12px;
+}
+
+.logo-text {
+    margin-top: 28px;
+}
+
+.header-container {
+    width: 50%;
+}
+
+.main-logo {
+    float: left;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+
+header li {
+    float: left;
+    padding: 2px;
+}  
+
+/* =========== */
+/* Main Styles */
+/* =========== */
+
+main {
+    width: 900px;
+    margin-top: 50px;
+    border-bottom: 10px #999 solid;
+}
+
+main h1 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+main h5 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    color: #999;
+}
+
+.print {
+    float: right;
+}
+
+.hero {
+    margin-top: 50px;
+}
+
+.instructions {
+    font-size: 18px;
+    margin-top: 30px;
+    line-height: 24px;
+    text-indent: 30px;
+    color: #777;
+}
+
+.ingredients {
+    height: 305px;
+    width: 900px;
+    margin-top: 30px;
+    background-image: url("img/list-bg.png");
+    background-repeat: no-repeat;
+}
+
+.ingredients-list {
+    width: 450px;
+    height: 200px;
+    float: left;
+    margin-top: 40px;
+}
+
+section li {
+    font-family: 'Pangolin', cursive;
+    color: #555;
+    font-size: 18px;
+    line-height: 34px;
+    text-align: center;
+}
